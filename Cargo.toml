@@ -1,0 +1,5 @@
+[package]
+name = "zero-docx-mac"
+version = "1.0.0"
+edition = "2021"
+description = "Native macOS client for zero-docx"
